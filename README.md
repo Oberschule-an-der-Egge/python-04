@@ -19,6 +19,12 @@ ACHTUNG: Im Moment wird die Liste noch nicht gespeichert und muss bei jedem Neus
     
 Es gibt noch viele weitere Methoden wie `.append()` für den Datentyp "Liste". Du findest sie in der [Python-Dokumentation](https://docs.python.org/3/tutorial/datastructures.html).
 
+**Länge**
+`len()` gibt die Länge eines Objekts als Ganzzahl zurück:
+
+    lehrer = ['DRI', 'MAT']
+    len(lehrer)
+    # -> 2
 
 ## Bonusaufgabe:
 
